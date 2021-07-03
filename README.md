@@ -3,4 +3,4 @@
 - 👯 My Name is Çağan
 - 🤔 I’m looking for help with NodeJS
 - 💬 My Discord Account Phoenix.rat#2231
-- 📫 How to reach me: Discord Twitter [E-Mail](mailto:admin@phoenixrat.xyz)
+- 📫 How to reach me: Discord [Twitter](https://twitter.com/cagan_aydin) [E-Mail](mailto:admin@phoenixrat.xyz)
