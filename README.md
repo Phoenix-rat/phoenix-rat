@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on [GameDoping.com](https://gamedoping.com)
-- 🌱 I’m currently learning NodeJS
+- 🔭 I’m currently working on [vixo.phoenixrat.xyz](https://vixo.phoenixrat.xyz)
+- 🌱 I’m currently learning NodeJS and Typescript
 - 👯 My Name is Çağan
-- 🤔 I’m looking for help with NodeJS
-- 💬 My Discord Account Phoenix.rat#2231
+- 🤔 I’m looking for help with NodeJS and TypeScript
+- 💬 My Discord Account Phoenix.rat#2208
 - 📫 How to reach me: Discord [Twitter](https://twitter.com/cagan_aydin) [E-Mail](mailto:admin@phoenixrat.xyz)
