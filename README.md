@@ -8,7 +8,7 @@
 <p align="center">
     <a href="https://instagram.com/phoenix.rat" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
        <a href="https://open.spotify.com/user/cagan-ayin" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-       <a href="https://discord.gg/MBSWcjtef3" target"blank_"><img src="https://img.shields.io/discord/878378245882535966"></a></a>
+       <a href="https://discord.gg/MBSWcjtef3" target"blank_"><img src="https://img.shields.io/discord/878378245882535966?style=for-the-badge"></a></a>
 </p>
 
 ![Phoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix-rat&show_icons=true) 
