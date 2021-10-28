@@ -11,5 +11,7 @@
        <a href="https://discord.gg/MBSWcjtef3" target"blank_"><img src="https://img.shields.io/discord/878378245882535966?style=for-the-badge"></a></a>
 </p>
 
-![Phoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix-rat&show_icons=true) 
-![Phoenix's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-rat)
+![Phoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix-rat&show_icons=true&theme=synthwave)
+
+[![Phoenix's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-rat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
