@@ -16,5 +16,5 @@
 [![Phoenix's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-rat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=KarimX32" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Phoenix-rat" alt="visitor badge"/>
 </p>
