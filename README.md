@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [vixo.phoenixrat.xyz](https://vixo.phoenixrat.xyz)
+- 🔭 I’m currently working on [prismadev.biz](https://prismadev.biz)
 - 🌱 I’m currently learning NodeJS and Typescript
 - 👯 My Name is Çağan
 - 🤔 I’m looking for help with NodeJS and TypeScript
