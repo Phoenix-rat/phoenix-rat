@@ -40,6 +40,7 @@ I ❤️ Coding!
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Phoenix-rat" alt="visitor badge"/>
 </p>
+
 ![Phoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix-rat&show_icons=true&theme=synthwave)
 
 ![Phoenix's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-rat&layout=compact)
