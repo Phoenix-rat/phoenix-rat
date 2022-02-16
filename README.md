@@ -41,7 +41,8 @@ I ❤️ Coding!
   <img src="https://visitor-badge.glitch.me/badge?page_id=Phoenix-rat" alt="visitor badge"/>
 </p>
 ![Phoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix-rat&show_icons=true&theme=synthwave)
-![[Phoenix's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-rat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Phoenix's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-rat&layout=compact)
 
 ## You can reach me with
 ![Discord](https://img.shields.io/discord/942398372038459494?style=flat-square)
