@@ -33,7 +33,7 @@ I ❤️ Coding!
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Github Pages](https://img.shields.io/badge/Github%20Pages-darkgreen?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-grey?style=flat-square&logo=visualstudiocode)
-![WebStorm IDE](https://img.shields.io/badge/-WebStorm IDE-%23007ACC?style=flat-square&logo=webstorm)
+![WebStorm IDE](https://img.shields.io/badge/-WebStorm%20IDE-%23007ACC?style=flat-square&logo=webstorm)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
@@ -41,8 +41,9 @@ I ❤️ Coding!
   <img src="https://visitor-badge.glitch.me/badge?page_id=Phoenix-rat" alt="visitor badge"/>
 </p>
 ![Phoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix-rat&show_icons=true&theme=synthwave)
-![Phoenix's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-rat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![[Phoenix's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-rat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## You can reach me with
 ![Discord](https://img.shields.io/discord/942398372038459494?style=flat-square)
+
 ![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)
