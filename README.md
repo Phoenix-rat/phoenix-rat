@@ -48,7 +48,7 @@ I ❤️ Coding!
 ## You can reach me with
 ![Discord](https://img.shields.io/discord/942398372038459494?style=flat-square)
 
-![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)
+[![](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)](https://instagram.com/phoenix.rat)
 
 [![](https://img.shields.io/badge/-@caganayin-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/cagan-ayin)
 
