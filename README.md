@@ -3,8 +3,6 @@
 - I'm 16
 - I'm currently developing [KriosHost](https://krioshost.net.tr), [Prisma Development](https://prismadev.biz)
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/cagan-ayin)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/phoenix-rat)
 <p align="center">
     <a href="https://instagram.com/phoenix.rat" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
        <a href="https://open.spotify.com/user/cagan-ayin" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
@@ -51,3 +49,7 @@ I ❤️ Coding!
 ![Discord](https://img.shields.io/discord/942398372038459494?style=flat-square)
 
 ![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)
+
+[![](https://img.shields.io/badge/-@cagan-ayin-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/cagan-ayin)
+
+[![](https://img.shields.io/badge/-@phoenix-rat-%23181717?style=flat-square&logo=github)](https://github.com/phoenix-rat)
