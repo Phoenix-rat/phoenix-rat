@@ -38,7 +38,9 @@ I ❤️ Coding!
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <p align='center'>
+    
   <img src="https://visitor-badge.glitch.me/badge?page_id=Phoenix-rat" alt="visitor badge"/>
+    
 </p>
 
 ![Phoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix-rat&show_icons=true&theme=synthwave)
