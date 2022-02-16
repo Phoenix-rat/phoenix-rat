@@ -34,18 +34,15 @@ I ❤️ Coding!
 ![WebStorm IDE](https://img.shields.io/badge/-WebStorm%20IDE-%23007ACC?style=flat-square&logo=webstorm)
 
 ## 𝗦𝘁𝗮𝘁𝘀
-
-<p align='center'>
-    
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Phoenix-rat" alt="visitor badge"/>
-    
-</p>
+ 
+![](https://visitor-badge.glitch.me/badge?page_id=Phoenix-rat)
 
 ![Phoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix-rat&show_icons=true&theme=synthwave)
 
 ![Phoenix's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-rat&layout=compact)
 
 ## You can reach me with
+
 ![Discord](https://img.shields.io/discord/942398372038459494?style=flat-square)
 
 [![](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)](https://instagram.com/phoenix.rat)
