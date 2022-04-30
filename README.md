@@ -47,7 +47,7 @@ I ❤️ Coding!
 
 [![](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)](https://instagram.com/phoenix.rat)
 
-[![](https://img.shields.io/badge/-@caganayin-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/cagan-ayin)
+[![](https://img.shields.io/badge/-@cagan_aydin-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/cagan_aydin)
 
 [![](https://img.shields.io/badge/-@phoenixrat-%23181717?style=flat-square&logo=github)](https://github.com/phoenix-rat)
 
