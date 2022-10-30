@@ -43,7 +43,7 @@ I ❤️ Coding!
 
 ## You can reach me with
 
-![https://img.shields.io/discord/942398372038459494?style=flat-square](https://discord.com/users/785054250677960737)
+![Discord](https://discord.com/users/785054250677960737)
 [![](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)](https://instagram.com/phoenix.rat)
 
 [![](https://img.shields.io/badge/-@cagan_aydin-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/cagan_aydin)
