@@ -1,7 +1,7 @@
 # Hello I'm Phoenix (a.k.a. Çağan)
 - I'm from Turkey/Bursa
 - I'm 16
-- I'm currently developing [Roxev Cloud](https://roxev.org)
+- I'm currently developing a Secret Project
 
 <p align="center">
     <a href="https://instagram.com/phoenix.rat" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -14,7 +14,7 @@ I ❤️ Coding!
 
 :vulcan_salute: I mostly put my focus over Javascript and I am a NodeJS nerd.
 
-:writing_hand: I write my blog sometimes [Phoenix's Blog](https://phoenixrat.me)
+:writing_hand: Sometime I write or produce my musics and beats. [Click for Spotify Artist Account](https://sptfy.com/phoenixrat) 
 
 ## My Knowledge
 
