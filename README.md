@@ -40,6 +40,7 @@ I ❤️ Coding!
 ![Phoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix-rat&show_icons=true&theme=synthwave)
 
 ![Phoenix's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-rat&layout=compact)
+![Profile Stats](https://profile-counter.glitch.me/insolitum/count.svg)
 
 ## You can reach me with
 
