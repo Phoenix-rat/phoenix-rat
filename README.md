@@ -53,4 +53,4 @@ I ❤️ Coding!
 
 [![](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discord.com/users/785054250677960737)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/785054250677960737)](https://discord.com/users/785054250677960737)
+[![Discord Presence](https://lanyard.cnrad.dev/api/785054250677960737?bg=111111)](https://discord.com/users/785054250677960737)
