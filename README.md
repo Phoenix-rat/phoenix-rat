@@ -53,8 +53,4 @@ I ❤️ Coding!
 
 [![](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discord.com/users/785054250677960737)
 
-<div align="center"> 
-    <a href="https://discord.com/users/785054250677960737" target="_blank"> 
-       <img src="https://lanyard.cnrad.dev/api/785054250677960737?bg=111111"> 
-    </a> 
- </div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/785054250677960737)](https://discord.com/users/785054250677960737)
