@@ -4,7 +4,7 @@
 - I'm currently developing a Secret Project
 
 <p align="center">
-    <a href="https://instagram.com/phoenix.rat" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://instagram.com/caganaydn4" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
        <a href="https://open.spotify.com/user/cagan-ayin" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
        <a href="https://discord.gg/rQXQ4uCqdp" target"blank_"><img src="https://img.shields.io/discord/1038809351185510512?style=for-the-badge"></a></a>
 </p>
