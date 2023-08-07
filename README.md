@@ -12,9 +12,9 @@ I ❤️ Coding!
 
 :computer: I'm a Back-end Developer
 
-:vulcan_salute: I mostly put my focus over Javascript and I am a NodeJS nerd.
+:vulcan_salute: Mostly I use Javascript Typescript and Arduino for my Projects.
 
-:writing_hand: Sometime I write or produce my musics and beats. [Click for Spotify Artist Account](https://sptfy.com/phoenixrat) 
+:writing_hand: I share my Arduino projects @(at) https://github.com/phoenix-rat/arduino
 
 ## My Knowledge
 
