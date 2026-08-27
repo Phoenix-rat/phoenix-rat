@@ -17,7 +17,6 @@
 - 🤙 I mostly work with **JavaScript**, **TypeScript**, and **Arduino**
 - 🤖 I share my Arduino projects at [phoenix-rat/arduino](https://github.com/phoenix-rat/arduino)
 - 🎓 Currently studying at **MAKÜ**
-- ⚡ Fun fact: I'm 18 and still learning something new every day
 
 ---
 
